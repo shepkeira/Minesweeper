@@ -1,0 +1,10 @@
+# Define some colors
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+GREEN = (0, 255, 0)
+RED = (255, 0, 0)
+BLUE = (47, 41, 140)
+LIGHT_BLUE = (59, 47, 224)
+
+SCREEN_HEIGHT = 255
+SCREEN_WIDTH = 255
